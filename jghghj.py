@@ -32,7 +32,7 @@ while True:
     elif event=="Sveiki!":
     #keksim pie 'drukat' un radio pie 'ir atlauja'
         if values["IN"]==True and values["IN2"]:# parada ka pieskirtajai pogai IN- chckboks ir true
-         logs["Multilains"].update("Labrit!")# ievavas updatam ieraksta ko atjaunos
+         logs["Multilains"].update("Labrit, cik jauka šī skolas diena!!")# ievavas updatam ieraksta ko atjaunos
     
     
 
